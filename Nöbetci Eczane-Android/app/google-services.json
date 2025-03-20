@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "730473849987",
+    "project_id": "neczane-e23fd",
+    "storage_bucket": "neczane-e23fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730473849987:android:4d48515e3826ebe9e967b6",
+        "android_client_info": {
+          "package_name": "com.resulkacar.borsa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfVGGdnLLqC7hTS_STuIJvs5XZFoEJoTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

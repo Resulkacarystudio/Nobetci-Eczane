@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item
+            android:id="@+id/adana"
+            android:title="Adana" />
+        <item
+            android:id="@+id/adiyaman"
+            android:title="Adiyaman" />
+        <item
+            android:id="@+id/afyonkarahisar"
+            android:title="Afyonkarahisar" />
+        <item
+            android:id="@+id/agri"
+            android:title="Agri" />
+        <item
+            android:id="@+id/aksaray"
+            android:title="Aksaray" />
+        <item
+            android:id="@+id/amasya"
+            android:title="Amasya" />
+        <item
+            android:id="@+id/ankara"
+            android:title="Ankara" />
+        <item
+            android:id="@+id/antalya"
+            android:title="Antalya" />
+        <item
+            android:id="@+id/ardahan"
+            android:title="Ardahan" />
+        <item
+            android:id="@+id/artvin"
+            android:title="Artvin" />
+        <item
+            android:id="@+id/aydin"
+            android:title="Aydin" />
+        <item
+            android:id="@+id/balikesir"
+            android:title="Balikesir" />
+        <item
+            android:id="@+id/bartin"
+            android:title="Bartin" />
+        <item
+            android:id="@+id/batman"
+            android:title="Batman" />
+        <item
+            android:id="@+id/bayburt"
+            android:title="Bayburt" />
+        <item
+            android:id="@+id/bilecik"
+            android:title="Bilecik" />
+        <item
+            android:id="@+id/bingol"
+            android:title="Bingol" />
+        <item
+            android:id="@+id/bitlis"
+            android:title="Bitlis" />
+        <item
+            android:id="@+id/bolu"
+            android:title="Bolu" />
+        <item
+            android:id="@+id/burdur"
+            android:title="Burdur" />
+        <item
+            android:id="@+id/bursa"
+            android:title="Bursa" />
+        <item
+            android:id="@+id/canakkale"
+            android:title="Canakkale" />
+        <item
+            android:id="@+id/cankiri"
+            android:title="Cankiri" />
+        <item
+            android:id="@+id/corum"
+            android:title="Corum" />
+        <item
+            android:id="@+id/denizli"
+            android:title="Denizli" />
+        <item
+            android:id="@+id/diyarbakir"
+            android:title="Diyarbakir" />
+        <item
+            android:id="@+id/duzce"
+            android:title="Duzce" />
+        <item
+            android:id="@+id/edirne"
+            android:title="Edirne" />
+        <item
+            android:id="@+id/elazig"
+            android:title="Elazig" />
+        <item
+            android:id="@+id/erzincan"
+            android:title="Erzincan" />
+        <item
+            android:id="@+id/erzurum"
+            android:title="Erzurum" />
+        <item
+            android:id="@+id/eskisehir"
+            android:title="Eskisehir" />
+        <item
+            android:id="@+id/gaziantep"
+            android:title="Gaziantep" />
+        <item
+            android:id="@+id/giresun"
+            android:title="Giresun" />
+        <item
+            android:id="@+id/gumushane"
+            android:title="Gumushane" />
+        <item
+            android:id="@+id/hakkari"
+            android:title="Hakkari" />
+        <item
+            android:id="@+id/hatay"
+            android:title="Hatay" />
+        <item
+            android:id="@+id/igdir"
+            android:title="igdir" />
+        <item
+            android:id="@+id/isparta"
+            android:title="isparta" />
+        <item
+            android:id="@+id/istanbul"
+            android:title="istanbul" />
+        <item
+            android:id="@+id/izmir"
+            android:title="izmir" />
+        <item
+            android:id="@+id/kahramanmaras"
+            android:title="Kahramanmaras" />
+        <item
+            android:id="@+id/karabuk"
+            android:title="Karabuk" />
+        <item
+            android:id="@+id/karaman"
+            android:title="Karaman" />
+        <item
+            android:id="@+id/kars"
+            android:title="Kars" />
+        <item
+            android:id="@+id/kastamonu"
+            android:title="Kastamonu" />
+        <item
+            android:id="@+id/kayseri"
+            android:title="Kayseri" />
+        <item
+            android:id="@+id/kirikkale"
+            android:title="Kirikkale" />
+        <item
+            android:id="@+id/kirklareli"
+            android:title="Kirklareli" />
+        <item
+            android:id="@+id/kirsehir"
+            android:title="Kirsehir" />
+        <item
+            android:id="@+id/kilis"
+            android:title="Kilis" />
+        <item
+            android:id="@+id/kocaeli"
+            android:title="Kocaeli" />
+        <item
+            android:id="@+id/konya"
+            android:title="Konya" />
+        <item
+            android:id="@+id/kutahya"
+            android:title="Kutahya" />
+        <item
+            android:id="@+id/malatya"
+            android:title="Malatya" />
+        <item
+            android:id="@+id/manisa"
+            android:title="Manisa" />
+        <item
+            android:id="@+id/mardin"
+            android:title="Mardin" />
+        <item
+            android:id="@+id/mersin"
+            android:title="Mersin" />
+        <item
+            android:id="@+id/mugla"
+            android:title="Mugla" />
+        <item
+            android:id="@+id/mus"
+            android:title="Mus" />
+        <item
+            android:id="@+id/nevsehir"
+            android:title="Nevsehir" />
+        <item
+            android:id="@+id/nigde"
+            android:title="Nigde" />
+        <item
+            android:id="@+id/ordu"
+            android:title="Ordu" />
+        <item
+            android:id="@+id/osmaniye"
+            android:title="Osmaniye" />
+        <item
+            android:id="@+id/rize"
+            android:title="Rize" />
+        <item
+            android:id="@+id/sakarya"
+            android:title="Sakarya" />
+        <item
+            android:id="@+id/samsun"
+            android:title="Samsun" />
+        <item
+            android:id="@+id/siirt"
+            android:title="Siirt" />
+        <item
+            android:id="@+id/sinop"
+            android:title="Sinop" />
+        <item
+            android:id="@+id/sivas"
+            android:title="Sivas" />
+        <item
+            android:id="@+id/sanliurfa"
+            android:title="Sanliurfa" />
+        <item
+            android:id="@+id/sirnak"
+            android:title="Sirnak" />
+        <item
+            android:id="@+id/tekirdag"
+            android:title="Tekirdag" />
+        <item
+            android:id="@+id/tokat"
+            android:title="Tokat" />
+        <item
+            android:id="@+id/trabzon"
+            android:title="Trabzon" />
+        <item
+            android:id="@+id/tunceli"
+            android:title="Tunceli" />
+        <item
+            android:id="@+id/usak"
+            android:title="Usak" />
+        <item
+            android:id="@+id/van"
+            android:title="Van" />
+        <item
+            android:id="@+id/yalova"
+            android:title="Yalova" />
+        <item
+            android:id="@+id/yozgat"
+            android:title="Yozgat" />
+        <item
+            android:id="@+id/zonguldak"
+            android:title="Zonguldak" />
+
+</menu>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Nöbetçi Eczane</string>
+    <string name="select">Şehir Seçiniz</string>
+    <string name="select1">İlçe Seçiniz</string>
+</resources>
