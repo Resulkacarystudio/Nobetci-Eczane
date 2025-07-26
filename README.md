@@ -46,11 +46,11 @@ Material Design	Modern ve kullanışlı UI bileşenleri	🎨
 
 ## 📷 Ekran Görüntüleri
 
-![Ana Ekran](images/1.jpg)  
+<img src="images/1.jpg" alt="Ana Ekran" width="400"/><br>
 _Uygulamanın ana ekranı, şehir ve ilçe seçimi._
 
-![Sonuç Listesi](images/2.jpg)  
+<img src="images/2.jpg" alt="Sonuç Listesi" width="400"/><br>
 _Nöbetçi eczane sonuçlarının listelendiği ekran._
 
-![Detaylı Bilgi](images/3.jpg)  
+<img src="images/3.jpg" alt="Detaylı Bilgi" width="400"/><br>
 _Eczane detayları ve telefon/harita butonları._
